@@ -1,0 +1,12 @@
+Cython
+librosa
+scipy
+numpy
+phonemizer
+torch
+torchvision
+Unidecode
+monotonic-align
+fasttext-langdetect
+pydub
+pygame
